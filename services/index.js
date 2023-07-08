@@ -1,8 +1,5 @@
 /**
  * @swagger
- * tags:
- *   name: Index
- *   description: Get index api
  * /get-index:
  *   get:
  *     summary: get index

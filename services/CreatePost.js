@@ -1,8 +1,5 @@
 /**
  * @swagger
- * tags:
- *   name: Create post
- *   description: Create new post
  * /create-post:
  *   post:
  *     summary: Create a new post
